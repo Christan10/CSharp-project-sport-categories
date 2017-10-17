@@ -1,0 +1,11 @@
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\bin\Debug\netcoreapp2.0\ParisSirap.deps.json
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\bin\Debug\netcoreapp2.0\ParisSirap.runtimeconfig.json
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\bin\Debug\netcoreapp2.0\ParisSirap.runtimeconfig.dev.json
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\bin\Debug\netcoreapp2.0\ParisSirap.dll
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\bin\Debug\netcoreapp2.0\ParisSirap.pdb
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.csprojResolveAssemblyReference.cache
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.csproj.CoreCompileInputs.cache
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.AssemblyInfoInputs.cache
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.AssemblyInfo.cs
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.dll
+c:\users\ch.skordas\documents\visual studio 2017\Projects\ParisSirap\ParisSirap\obj\Debug\netcoreapp2.0\ParisSirap.pdb
